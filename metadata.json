@@ -1,0 +1,6 @@
+{
+  "name": "PulsePad",
+  "description": "Ultra-low-latency offline wireless TV gamepad over mobile hotspot and local Wi-Fi using binary UDP and automatic LAN/NSD discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
